@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevFatal
+- 👋 Hi, I’m @DevFatal or Daryl.
 - 👀 I’m interested in projects that are new an inovative and/or projects that have a real impact. 
 My experience is primarily in C++ with some in LUA/C#/Javascript/HTML/Python
 - 🌱 I’m currently working on my CS degree at UVU.
