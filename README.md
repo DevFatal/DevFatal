@@ -13,7 +13,7 @@ My experience is largely in C/C++ with some experience in the following:
 - Batch
 - Bash
 
-🌱 I’m currently working on my CS degree at UVU.
+🌱 I’m currently working to expand my knowledge after achieving my CS degree at UVU.
 💞️ I’m looking to collaborate on projects for classes and projects that interest me personally (as well as employment).
 📫 How to reach me developerfatal@gmail.com is my primary email address for github/development, draneydaryl@gmail.com is my email for all other inquiries
 
